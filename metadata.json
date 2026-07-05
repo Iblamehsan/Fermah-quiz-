@@ -1,0 +1,6 @@
+{
+  "name": "Fermah Proof Check",
+  "description": "An interactive, highly polished proof-of-knowledge quiz game for the Fermah community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
